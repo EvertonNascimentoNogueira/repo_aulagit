@@ -1,3 +1,6 @@
 branch arquivo_xpto
 
 nova linha local user
+
+nova linha do remoter user no git
+
