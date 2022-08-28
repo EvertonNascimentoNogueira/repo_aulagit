@@ -1,3 +1,4 @@
 add arq main.txt
 nova linha repo remoto
 nova linha
+nova linha remoto fetch
